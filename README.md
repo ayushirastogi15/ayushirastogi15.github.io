@@ -4,7 +4,7 @@ She is an ML enthusiast and has a keen interest in Data Science and Analytics. S
 Here is her [Resume](https://drive.google.com/file/d/1qD5ZjYEkbnIb3lVg_PZ4aW9CNRJgtmEU/view?usp=sharing) and [brief introduction letter](https://drive.google.com/file/d/1c7hCTaQ2pMXd2QFtQiDaCQpssWBlK6HR/view?usp=sharing) for more information about her.
 
 ## Some Repositories are available here:-
-- [Machine Learning Course by AndrewNg - Assignments](https://ayushirastogi15.github.io/Machine-Learning-Assignments/)
+- [Machine Learning Course by AndrewNg - Assignments](https://github.com/ayushirastogi15/Machine-Learning-Assignments)
 
 - [Data Science Specialization Course - Assignments](https://ayushirastogi15.github.io/Data-Science-Assignments/)
 

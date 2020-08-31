@@ -4,11 +4,14 @@ She is an ML enthusiast and has a keen interest in Data Science and Analytics. S
 Here is her [Resume](https://drive.google.com/file/d/1qD5ZjYEkbnIb3lVg_PZ4aW9CNRJgtmEU/view?usp=sharing) and [brief introduction letter](https://drive.google.com/file/d/1c7hCTaQ2pMXd2QFtQiDaCQpssWBlK6HR/view?usp=sharing) for more information about her.
 
 ## Some Repositories are available here:-
-- [Machine Learning Course by AndrewNg - Assignments](https://github.com/ayushirastogi15/Machine-Learning-Assignments)
+- [Machine Learning Course by AndrewNg - Assignments](https://github.com/ayushirastogi15/Machine-Learning-Assignments) : 
+It includes all the assignments of Machine Learning Course from AndrewNg by Coursera.
 
-- [Data Science Specialization Course - Assignments](https://ayushirastogi15.github.io/Data-Science-Assignments/)
+- [Data Science Specialization Course - Assignments](https://ayushirastogi15.github.io/Data-Science-Assignments/) : 
+It includes all the assignments of Data Science Specialization Course which contains Introduction to Data Science with Python, Charting, Plotting & Representation of data with Python, Applied ML in Python, Social Network Analysis with Python, Text Mining with Python.
 
-- [COVID-19 Exploratory Data Analysis & Visualization]()
+- [COVID-19 Exploratory Data Analysis & Visualization](https://github.com/ayushirastogi15/covid-19-analysis) : 
+This repo includes the exploratory data analysis and interesting visualizations to better understand the data, to understand what the data is trying to saying & finding its hidden insights and patterns.
 
 - [Time Series Forecasting of Stocks]()
 

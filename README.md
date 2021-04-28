@@ -18,7 +18,7 @@ This repository gives you the overview of developing a flask web application and
 ## [COVID-19 Exploratory Data Analysis & Visualization](https://github.com/ayushirastogi15/covid-19-analysis) 
 This repo includes the exploratory data analysis and interesting visualizations to better understand the data, to understand what the data is trying to saying & finding its hidden insights and patterns.
 
-##[Time Series Forecasting of Stocks](https://github.com/ayushirastogi15/Time-Series-Forecasting-Analysis)
+## [Time Series Forecasting of Stocks](https://github.com/ayushirastogi15/Time-Series-Forecasting-Analysis)
 This repository includes the time series forecasting and analysis of a company's stock market prices using various technical indicators and machine learning algorithms like Linear Regression, Decision Trees, Random Forest, Gradient Boost etc. The metrics used to check accuracy is mean absolute error.
 
 ## [House Price Prediction](https://github.com/ayushirastogi15/house-price-prediction)

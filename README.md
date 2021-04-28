@@ -3,7 +3,7 @@ She is an ML enthusiast and has a keen interest in Data Science and Analytics. S
 
 To get the experience and knowledge she has done various projects related to Data Analysis. She has an experience in analyzing and visualizing the data using Python libraries such as pandas, numpy, matplotlib, plotly. She also has exposure to Scikit-learn library for doing machine learning tasks like predicting an airbnb price, classifying the images into various categories, segmenting or clustering the customers/users based on their purchases/likes/dislikes etc.
 
-Here is her [Resume](https://drive.google.com/file/d/1qD5ZjYEkbnIb3lVg_PZ4aW9CNRJgtmEU/view?usp=sharing) and [brief introduction letter](https://drive.google.com/file/d/1c7hCTaQ2pMXd2QFtQiDaCQpssWBlK6HR/view?usp=sharing) for more information about her.
+Here is her [Resume](https://drive.google.com/file/d/1wWzuELkGRWbt8AbwC8aTFv_OzS-WEzac/view?usp=sharing) and [brief introduction letter](https://drive.google.com/file/d/1jq5a3s3Ch9hSx4Mn9u6NYZr4F_o72V5u/view?usp=sharing) for more information about her.
 
 # Some Repositories are available here:-
 ## [Machine Learning Course by AndrewNg - Assignments](https://github.com/ayushirastogi15/Machine-Learning-Assignments)
